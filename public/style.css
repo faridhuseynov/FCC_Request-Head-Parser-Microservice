@@ -1,0 +1,41 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 60px;
+}
+
+#link-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+p{
+    background-color: white;
+    font-size: 25px;
+    font-weight: normal;
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+    columns: rgb(37,137,198);
+    font-weight: normal;
+}
+
+a:visited{
+    color: rgb(37,137,198);
+}
