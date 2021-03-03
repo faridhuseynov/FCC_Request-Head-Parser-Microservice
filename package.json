@@ -1,0 +1,23 @@
+{
+  "name": "request-head-parser",
+  "version": "1.0.0",
+  "description": "FCC certificate project for APIs & Microservices",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faridhuseynov/FCC_Request-Head-Parser-Microservice.git"
+  },
+  "author": "Farid Huseynov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faridhuseynov/FCC_Request-Head-Parser-Microservice/issues"
+  },
+  "homepage": "https://github.com/faridhuseynov/FCC_Request-Head-Parser-Microservice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
