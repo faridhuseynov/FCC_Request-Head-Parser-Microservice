@@ -21,7 +21,6 @@ app.get("/api/whoami",(req,res)=>{
                 "language":header['accept-language'],
                 "software":header['user-agent']
             });
-
         });
 })
 
